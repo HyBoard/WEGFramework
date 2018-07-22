@@ -1,0 +1,6 @@
+framework module WEGFramework {
+  umbrella header "WEGFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

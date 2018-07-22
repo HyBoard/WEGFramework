@@ -1,0 +1,16 @@
+PODS:
+  - WEGFramework (0.1.0)
+
+DEPENDENCIES:
+  - WEGFramework (from `../`)
+
+EXTERNAL SOURCES:
+  WEGFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WEGFramework: 4ea6df1f3175e7ba76885efcb1b0fbc1d6e3d7a2
+
+PODFILE CHECKSUM: 6bf59838fa3d2afe98bbd5cde024d41dc821563e
+
+COCOAPODS: 1.5.0
