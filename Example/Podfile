@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WEGFramework_Example' do
+  pod 'WEGFramework', :path => '../'
+
+  target 'WEGFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
