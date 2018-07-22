@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "NSString+Extension.h"
 
 FOUNDATION_EXPORT double WEGFrameworkVersionNumber;
 FOUNDATION_EXPORT const unsigned char WEGFrameworkVersionString[];

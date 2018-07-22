@@ -7,6 +7,8 @@
 //
 
 #import "WEGViewController.h"
+#import "NSString+Extension.h"
+
 
 @interface WEGViewController ()
 
@@ -18,6 +20,11 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    NSLog(@"%d", [@"http:kk" isContainHTTP]);
+    NSLog(@"%d", [@"asd" isContainHTTP]);
+    
+    
 }
 
 - (void)didReceiveMemoryWarning

@@ -1,9 +1,9 @@
 {
   "name": "WEGFramework",
   "version": "0.1.0",
-  "summary": "A short description of WEGFramework.",
+  "summary": "这是我的测试内容.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/wangergang/WEGFramework",
+  "homepage": "https://github.com/HyBoard/WEGFramework.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "wangergang": "249804175@qq.com"
   },
   "source": {
-    "git": "https://github.com/wangergang/WEGFramework.git",
+    "git": "https://github.com/HyBoard/WEGFramework.git",
     "tag": "0.1.0"
   },
   "platforms": {
